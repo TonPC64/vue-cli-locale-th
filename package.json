@@ -1,0 +1,21 @@
+{
+  "name": "vue-cli-locale-th",
+  "version": "0.1.1",
+  "description": "Thai localization for @vue/cli",
+  "unpkg": "./locales/th.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonPC64/vue-cli-locale-th.git"
+  },
+  "keywords": [
+    "vuejs",
+    "vue-cli",
+    "locale"
+  ],
+  "author": "Chanwit Piromplad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TonPC64/vue-cli-locale-th/issues"
+  },
+  "homepage": "https://github.com/TonPC64/vue-cli-locale-th#readme"
+}

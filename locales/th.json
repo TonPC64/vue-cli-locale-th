@@ -1,46 +1,46 @@
 {
   "components": {
     "file-diff": {
-      "binary": "Binary file not shown",
+      "binary": "ไฟล์ไบนารี่ไม่แสดง",
       "actions": {
-        "open": "Open in editor"
+        "open": "เปิดในตัวแก้ไข"
       }
     },
     "file-diff-view": {
-      "files-changed": "Files changed",
-      "search-file": "Search file",
-      "empty": "No change found",
+      "files-changed": "เปลี่ยนไฟล์แล้ว",
+      "search-file": "ค้นหาไฟล์",
+      "empty": "ไม่พบการเปลี่ยนแปลง",
       "modals": {
         "commit": {
-          "title": "Commit changes",
-          "input": "Enter a commit message",
-          "subtitle": "Record changes to the repository",
+          "title": "ยอมรับการเปลี่ยนแปลง",
+          "input": "ป้อนข้อความยืนยัน",
+          "subtitle": "บันทึกการเปลี่ยนแปลงในพื้นที่เก็บข้อมูล",
           "actions": {
-            "commit": "Commit",
-            "cancel": "Cancel"
+            "commit": "ผูกมัด",
+            "cancel": "ยกเลิก"
           }
         }
       },
       "actions": {
-        "collapse-all": "Collapse all",
-        "expand-all": "Expand all",
-        "commit": "Commit changes",
-        "skip": "Skip",
-        "continue": "Continue",
-        "refresh": "Refresh"
+        "collapse-all": "ยุบทั้งหมด",
+        "expand-all": "ขยายทั้งหมด",
+        "commit": "ยอมรับการเปลี่ยนแปลง",
+        "skip": "ข้าม",
+        "continue": "ต่อไป",
+        "refresh": "รีเฟรช"
       }
     },
     "folder-explorer": {
       "toolbar": {
         "tooltips": {
-          "parent-folder": "Open parent folder",
-          "edit-path": "Edit path",
-          "favorite": "Toggle favorite",
-          "favorite-folders": "Favorite folders",
-          "refresh": "Refresh"
+          "parent-folder": "เปิดโฟลเดอร์หลัก",
+          "edit-path": "แก้ไขเส้นทาง",
+          "favorite": "สลับรายการโปรด",
+          "favorite-folders": "โฟลเดอร์ที่ชอบ",
+          "refresh": "รีเฟรช"
         },
-        "placeholder": "Enter the full path to a folder",
-        "empty": "No favorite folders yet."
+        "placeholder": "ป้อนเส้นทางแบบเต็มไปยังโฟลเดอร์",
+        "empty": "ยังไม่มีโฟลเดอร์โปรด"
       }
     },
     "list-item-info": {

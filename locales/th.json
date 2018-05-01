@@ -44,63 +44,63 @@
       }
     },
     "list-item-info": {
-      "more-info": "More Info"
+      "more-info": "ข้อมูลเพิ่มเติม"
     },
     "logger-view": {
-      "title": "Logs",
-      "empty": "Not logs yet",
+      "title": "บันทึก",
+      "empty": "ยังไม่ได้บันทึก",
       "buttons": {
-        "clear": "Clear logs",
-        "scroll": "Scroll to bottom",
-        "close": "Close"
+        "clear": "ล้างบันทึก",
+        "scroll": "เลื่อนไปที่ด้านล่าง",
+        "close": "ปิด"
       }
     },
     "progress-screen": {
-      "close": "Close"
+      "close": "ปิด"
     },
     "project-nav": {
       "tooltips": {
-        "plugins": "Plugins",
-        "configuration": "Configuration",
-        "tasks": "Tasks",
-        "more": "More"
+        "plugins": "ปลั๊กอิน",
+        "configuration": "การกำหนดค่า",
+        "tasks": "งาน",
+        "more": "เพิ่มเดิม"
       }
     },
     "project-select-list": {
-      "empty": "No existing projects",
+      "empty": "ไม่มีโครงการที่มีอยู่",
       "titles": {
-        "favorite": "Favorite projects",
-        "other": "Other projects"
+        "favorite": "โครงการที่ชื่นชอบ",
+        "other": "โครงการอื่น ๆ"
       }
     },
     "project-select-list-item": {
       "tooltips": {
-        "favorite": "Toggle favorite",
-        "delete": "Delete"
+        "favorite": "สลับรายการโปรด",
+        "delete": "ลบ"
       }
     },
     "project-plugin-item": {
-      "version": "version",
-      "latest": "latest",
-      "official": "Official",
-      "installed": "Installed",
+      "version": "รุ่น",
+      "latest": "ล่าสุด",
+      "official": "เป็นทางการ",
+      "installed": "การติดตั้ง",
       "actions": {
-        "update": "Update {target}"
+        "update": "ปรับปรุง {target}"
       }
     },
     "prompt-list": {
-      "default": "Default"
+      "default": "ค่าเริ่มต้น"
     },
     "prompts-list": {
-      "empty": "No configuration"
+      "empty": "ไม่มีการกำหนดค่า"
     },
     "status-bar": {
       "project": {
-        "tooltip": "Current project<br><i>Click to toggle Project Manager</i>",
-        "empty": "No project"
+        "tooltip": "โครงการปัจจุบัน<br><i>คลิกเพื่อสลับไป หน้าจัดการโครงการ</i>",
+        "empty": "ไม่มีโครงการ"
       },
       "path": {
-        "tooltip": "Current Working Folder"
+        "tooltip": "โฟลเดอร์ทำงานปัจจุบัน"
       },
       "log": {
         "tooltip": "Logs<br><i>Click to toggle Vue CLI logs</i>",

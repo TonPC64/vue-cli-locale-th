@@ -103,30 +103,30 @@
         "tooltip": "โฟลเดอร์ทำงานปัจจุบัน"
       },
       "log": {
-        "tooltip": "Logs<br><i>Click to toggle Vue CLI logs</i>",
-        "empty": "No logs yet"
+        "tooltip": "บันทึก<br><i>คลิกเพื่อสลับ Vue CLI logs</i>",
+        "empty": "ยังไม่มีบันทึก"
       },
-      "report-bug": "Report bug"
+      "report-bug": "รายงานปัญหา"
     },
     "terminal-view": {
       "buttons": {
-        "clear": "Clear console",
-        "scroll": "Scroll to bottom"
+        "clear": "ล้างคอนโซล",
+        "scroll": "เลื่อนไปที่ด้านล่าง"
       }
     },
     "view-badge": {
       "labels": {
         "tasks": {
-          "error": "Error status",
-          "running": "Running status",
-          "done": "Done status"
+          "error": "สถานะ ข้อผิดพลาด",
+          "running": "สถานะ กำลังทำงาน",
+          "done": "สถานะ เสร็จแล้ว"
         }
       }
     }
   },
   "mixins": {
     "progress": {
-      "creating": "Creating project...",
+      "creating": "กำลังสร้างโครงการ...",
       "git-init": "Initializing git repository...",
       "plugins-install": "Installing Vue CLI plugins. This might take a while...",
       "invoking-generators": "Invoking generators...",
@@ -348,13 +348,13 @@
       }
     },
     "analyzer": {
-      "title": "Analyzer",
-      "go-up": "Go up",
-      "go-home": "Go to home",
-      "chunk": "Chunk"
+      "title": "วิเคราะห์",
+      "go-up": "ขึ้น",
+      "go-home": "ไปหน้าหลัก",
+      "chunk": "ก้อน"
     },
     "sizes": {
-      "stats": "Stats",
+      "stats": "สถิติ",
       "parsed": "Parsed",
       "gzip": "Gzip",
       "help": "<b>Stats:</b> size from webpack stats data.<br><b>Parsed:</b> size from extracted source (after minification plugins). More accurate.<br><b>Gzip:</b> size of gzipped extracted source."
